@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: My Academic Profile
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello! I am Jie Zhu, currently a master student in [the Institute of Software Chinese Academy of Sciences](http://www.iscas.ac.cn/), supervised by Prof. Li Yang. Previously, I received my bachelor degree (Software Engineering) at [Wuhan University](http://cs.whu.edu.cn/). My research interest is mainly about AI4SE, especially on applying Natural Language Processing techniques to conduct intelligent software engineering researchs, including software quality and maintenance. Besides research, I am interested in playing badminton and chess (Go). 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Still under construction

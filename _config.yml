@@ -20,11 +20,13 @@ author: Jie Zhu
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me/Contact: "aboutme"
   Links:
     - GitHub: "https://github.com/JasonZhu-WHU"
     - Zhihu Blogs: "https://www.zhihu.com/people/coulson-29/posts"
+  Projects: "aboutme"
   Publications: "aboutme"
+  CV: "aboutme"
 
 ################
 # --- Logo --- #

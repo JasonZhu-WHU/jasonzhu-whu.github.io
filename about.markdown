@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academic Profile
+title: My Academic Profile
 permalink: /about/
 ---
 

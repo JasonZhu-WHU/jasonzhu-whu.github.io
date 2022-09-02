@@ -24,7 +24,8 @@ navbar-links:
   Links:
     - GitHub: "https://github.com/JasonZhu-WHU"
     - Zhihu Blogs: "https://www.zhihu.com/people/coulson-29/posts"
-  Projects: "aboutme"
+  Projects: 
+    - CoderAssistant: "CoderAssistant"
   Publications: "aboutme"
   CV: 
     - EN: "cv_en"

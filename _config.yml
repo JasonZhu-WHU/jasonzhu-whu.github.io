@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: Zhu Jie's Website
 
 # Your name to show in the footer
 author: Jie Zhu
@@ -21,10 +21,10 @@ author: Jie Zhu
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Links:
+    - GitHub: "https://github.com/JasonZhu-WHU"
+    - Zhihu Blogs: "https://www.zhihu.com/people/coulson-29/posts"
+  Publications: "aboutme"
 
 ################
 # --- Logo --- #

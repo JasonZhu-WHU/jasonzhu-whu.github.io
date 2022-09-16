@@ -11,6 +11,6 @@ My main research areas include:
 - User Review Analysis(for software reliability and issue detection)
 - Code Intelligence(program comprehension and documentation generation, such as method name recommendation, [release notes generation](https://arxiv.org/pdf/2201.06720.pdf) and [code review automation](https://arxiv.org/pdf/2208.08014.pdf))
 
-If you want to communicate with me, feel free to send me an email to whuzhujie@qq.com or zhujie2022@iscas.ac.cn. And my school is located in HaiDian district, Beijing. So we could have a face-to-face meeting if you like.
+If you want to communicate with me, feel free to send me an email to whuzhujie@qq.com or zhujie2022@iscas.ac.cn. You could also download my [cv](https://github.com/JasonZhu-WHU/jasonzhu-whu.github.io/cv_zh.pdf) for more information. And my school is located in HaiDian district, Beijing. So we could also have a face-to-face meeting if you like.
 
 ### Still under construction

@@ -35,9 +35,9 @@ navbar-links:
   Links:
     - GitHub: "https://github.com/JasonZhu-WHU"
     - Zhihu Blogs: "https://www.zhihu.com/people/coulson-29/posts"
-  CV: 
-    - EN: "cv_en"
-    - ZH: "cv_zh"
+  # CV: 
+  #   - EN: "cv_en"
+  #   - ZH: "cv_zh"
 
 ################
 # --- Logo --- #

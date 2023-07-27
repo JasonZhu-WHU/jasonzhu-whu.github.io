@@ -25,9 +25,11 @@ navbar-links:
     - GitHub: "https://github.com/JasonZhu-WHU"
     - Zhihu Blogs: "https://www.zhihu.com/people/coulson-29/posts"
   Projects: 
+    - 基于预训练模型和提示学习的函数方法命名自动化研究: "aumena"
     - CoderAssistant: "CoderAssistant"
-    - aumena: "基于预训练模型和提示学习的函数方法命名自动化研究"
   Publications: "aboutme"
+  PaperReadings:
+    - FSE22_Prompt_Tuning: "pdf/FSE22_prompt_tuning_slides.pdf"
   CV: 
     - EN: "cv_en"
     - ZH: "cv_zh"

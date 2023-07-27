@@ -4,7 +4,7 @@ title: About me
 subtitle: My Academic Profile
 ---
 
-Hello! I am Jie Zhu, currently a master student in [the Institute of Software Chinese Academy of Sciences](http://www.iscas.ac.cn/), supervised by Prof. Li Yang. Previously, I received my bachelor degree (Software Engineering) from [Computer School of Wuhan University](http://cs.whu.edu.cn/). My research interest is mainly about NLP4SE(Natural Language Precessing for Software Engineering), especially on utilizing pretrained language model techniques to conduct code-related researches. 
+Hello! I am Jie Zhu, currently a master student in [the Institute of Software Chinese Academy of Sciences](http://www.iscas.ac.cn/), supervised by Prof. Li Yang. My graduate course GPA is 3.98/4.0 which ranks the first in all 143 students. Previously, I received my bachelor degree (Software Engineering) from [Computer School of Wuhan University](http://cs.whu.edu.cn/) with honours (GPA: 3.85/4.0, rank: 7%). My research interest is mainly about NLP4SE(Natural Language Precessing for Software Engineering), especially on utilizing pretrained language model techniques to conduct code-related researches. 
 
 
 

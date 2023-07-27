@@ -27,6 +27,7 @@ navbar-links:
     - iFeedBack: "https://cloud.tencent.com/developer/article/1798426"
     - CoderAssistant: "CoderAssistant"
   PaperReadings:
+    - Aumena: "pdf/aumena_slides.pdf"
     - PromptTuning: "pdf/FSE22_prompt_tuning_slides.pdf"
     - CodeReview: "pdf/Code_Review.pdf"
     - GTNM: "pdf/GTNM.pdf"

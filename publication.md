@@ -5,7 +5,7 @@ title: Publication
 
 > **Jie Zhu**, Lingwei Li, Li Yang, Xiaoxiao Ma, Chun Zuo. Automating Method Naming with Context-Aware Prompt-Tuning. ICPC 2023. (CCF-B, accepted)，(一作, 已接收) 
 
-> [sliedes](https://jasonzhu-whu.github.io/pdf/aumena_slides.pdf) [paper](https://arxiv.org/pdf/2303.05771.pdf)
+> [sliedes](https://jasonzhu-whu.github.io/pdf/aumena_slides.pdf) and [paper](https://arxiv.org/pdf/2303.05771.pdf)
 >
 > Zeshan Xu, **Jie Zhu**, Li Yang, Chun Zuo. Mining the Relationship between Object-Relational Mapping Performance Anti-patterns and Code Clones. SEKE 2023. (CCF-C, accepted)，(二作, 已接收)
 >

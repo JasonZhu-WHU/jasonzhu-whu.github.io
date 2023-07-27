@@ -26,6 +26,7 @@ navbar-links:
     - Aumena: "https://jasonzhu-whu.github.io/pdf/aumena_slides.pdf"
     - iFeedBack: "https://cloud.tencent.com/developer/article/1798426"
     - CoderAssistant: "CoderAssistant"
+    - iDigest: "pdf/iDigest.pdf"
   PaperReadings:
     - Aumena: "pdf/aumena_slides.pdf"
     - PromptTuning: "pdf/FSE22_prompt_tuning_slides.pdf"

@@ -26,6 +26,7 @@ navbar-links:
     - Zhihu Blogs: "https://www.zhihu.com/people/coulson-29/posts"
   Projects: 
     - CoderAssistant: "CoderAssistant"
+    - aumena: "基于预训练模型和提示学习的函数方法命名自动化研究"
   Publications: "aboutme"
   CV: 
     - EN: "cv_en"

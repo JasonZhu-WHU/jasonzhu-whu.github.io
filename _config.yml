@@ -21,15 +21,16 @@ author: Jie Zhu
 
 navbar-links:
   About Me/Contact: "aboutme"
+  Publications: "publication"
+  Projects: 
+    - Aumena: "https://jasonzhu-whu.github.io/pdf/aumena_slides.pdf"
+    - iFeedBack: "https://cloud.tencent.com/developer/article/1798426"
+    - CoderAssistant: "CoderAssistant"
+  PaperReadings:
+    - FSE22_Prompt_Tuning: "pdf/FSE22_prompt_tuning_slides.pdf"
   Links:
     - GitHub: "https://github.com/JasonZhu-WHU"
     - Zhihu Blogs: "https://www.zhihu.com/people/coulson-29/posts"
-  Projects: 
-    - Aumena: "Aumena"
-    - CoderAssistant: "CoderAssistant"
-  Publications: "publication"
-  PaperReadings:
-    - FSE22_Prompt_Tuning: "pdf/FSE22_prompt_tuning_slides.pdf"
   CV: 
     - EN: "cv_en"
     - ZH: "cv_zh"

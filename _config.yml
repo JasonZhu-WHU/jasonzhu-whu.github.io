@@ -27,7 +27,7 @@ navbar-links:
   Projects: 
     - Aumena: "Aumena"
     - CoderAssistant: "CoderAssistant"
-  Publications: "aboutme"
+  Publications: "publication"
   PaperReadings:
     - FSE22_Prompt_Tuning: "pdf/FSE22_prompt_tuning_slides.pdf"
   CV: 
